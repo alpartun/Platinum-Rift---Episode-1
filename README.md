@@ -1,0 +1,6 @@
+# coding-game-alpartun
+coding-game-alpartun created by GitHub Classroom
+
+## Platinum Rift - Episode 1
+
+ In this assignment, my approach is to get the zones that are important at the beginning of the game, so I calculated the platinum numbers of the zones and I determined the priority. I added explanatory comments while writing the codes, and you can look there and understand better. I used this tactic at the beginning of the game. Later, I determined my priority by purchasing pods in zones that are not taken and close to the opponent zones  or  areas that are mine and close to the oponent zones. That way, I could get there quickly. I didn't have a good approach to spreading because I started doing the homework a little late and I could have improved a lot. But as a short solution, I did it like this, if there is an enemy zone around the area I captured, take it there, if this option is not available, take the empty neighbors just like that. In the end, if they all belong to us, randomly spread. (This is not a very good approach, but it can be improved in the future.) So to summarize, the important thing is to capture the zones that has more platinum than others and beat our opponents.
